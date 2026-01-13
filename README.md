@@ -66,7 +66,7 @@ random-password-generator/
 
 > Animated background of floating characters with a centered password generator UI.
 
-<img src="C:\Users\Asus\dsb_projects\random_password_generator\images\Random Password Generator screenshot.jpg" alt="Random Password Generator screenshot" width="500px">
+<img src="https://github.com/3020Ben/random-password-generator/blob/main/images/Random%20Password%20Generator%20screenshot.jpg" alt="Random Password Generator screenshot" width="500px">
 
 ---
 
